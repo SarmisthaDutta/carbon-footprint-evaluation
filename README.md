@@ -20,7 +20,14 @@ PCAF is a global partnership of financial institutions that work together to dev
 
 The harmonized accounting approach provides financial institutions with the starting point required to set science-based targets and align their portfolio with the Paris Climate Agreement. PCAF enables transparency and accountability and has developed an open-source global GHG accounting standard for financial institutions, the Global GHG Accounting and Reporting Standard for the Financial Industry.
 
-# Information reference on Carbon footprint information, Sustainability and PCAF
+# What are Greenhouse Gas Emission Scopes?
+Greenhouse gas emissions include carbon dioxide, nitrous oxide, methane and four groups of fluorinated gases (sulfur hexafluoride, hydrofluorocarbons, perfluorocarbons, and nitrogen trifluoride). The Greenhouse Gas Protocol, a partnership between the World Resources Institute and the Business Council for Sustainable Development, categorizes greenhouse gas emissions into three Scopes:
+
+Scope 1: Directly generated emissions resulting from the consumption of fuels in operations, transportation and fugitive emissions, such as accidental leaks. For example, a plant that burns natural gas onsite would include these emissions in its Scope 1 calculations.
+Scope 2: Indirectly generated emissions resulting from the use of purchased electricity, steam, heating or cooling. For example, a plant that uses electricity purchased from a nearby power plant that generates emissions would include these emissions as part of its Scope 2.
+Scope 3: All the other indirect emissions that result from a company’s activities across its value chain. For example, a company that sends wastewater to a treatment plant will need to account for the emissions associated with that wastewater treatment in its Scope 3 calculations.
+
+# Information reference on Carbon footprint information, Sustainability , PCAF and GHG scope 1, 2 and 3
 
 https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-sustainability
 
@@ -31,6 +38,8 @@ https://www.esgtoday.com/ikea-foundation-partners-with-partnership-for-carbon-ac
 https://www.gabv.org/long-read/ghg-accounting-and-why-it-matters-a-story-of-systemic-change/
 
 https://carbonaccountingfinancials.com/about
+
+https://sustainserv.com/en/insights/calculating-scope-1-2-and-3-emissions-an-overview/
 
 # Carbon footprint calculator
 
